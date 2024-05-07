@@ -1,0 +1,1 @@
+[('scaler', StandardScaler()), ('poly_features', PolynomialFeatures(degree=5)), ('regressor', LinearRegression())]

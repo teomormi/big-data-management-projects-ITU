@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/566005267593053386
+creation_time: 1700583061691
+experiment_id: '566005267593053386'
+last_update_time: 1700673400194
+lifecycle_stage: deleted
+name: PolyRegressionStandard
+tags: {}

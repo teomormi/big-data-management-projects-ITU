@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/348422279011113880/e6818a9bdbaf456e9e00fb7b1b2a3c35/artifacts
+deleted_time: 1700582978176
+end_time: 1700568518641
+entry_point_name: ''
+experiment_id: '348422279011113880'
+lifecycle_stage: deleted
+run_id: e6818a9bdbaf456e9e00fb7b1b2a3c35
+run_name: marvelous-ram-362
+run_uuid: e6818a9bdbaf456e9e00fb7b1b2a3c35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700568509014
+status: 3
+tags: []
+user_id: matteo

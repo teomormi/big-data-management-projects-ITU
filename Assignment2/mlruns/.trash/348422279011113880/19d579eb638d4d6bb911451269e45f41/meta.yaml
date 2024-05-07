@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/348422279011113880/19d579eb638d4d6bb911451269e45f41/artifacts
+deleted_time: 1700582978176
+end_time: 1700568528295
+entry_point_name: ''
+experiment_id: '348422279011113880'
+lifecycle_stage: deleted
+run_id: 19d579eb638d4d6bb911451269e45f41
+run_name: delightful-lamb-731
+run_uuid: 19d579eb638d4d6bb911451269e45f41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700568518946
+status: 3
+tags: []
+user_id: matteo

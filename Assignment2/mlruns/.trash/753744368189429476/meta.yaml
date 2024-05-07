@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/753744368189429476
+creation_time: 1700583372087
+experiment_id: '753744368189429476'
+last_update_time: 1700673391977
+lifecycle_stage: deleted
+name: MLPRegressor
+tags: {}

@@ -1,0 +1,10 @@
+digest: 74d32d1d
+name: dataset
+profile: '{"features_shape": [1112, 1], "features_size": 1112, "features_nbytes":
+  8896, "targets_shape": [1112, 1], "targets_size": 1112, "targets_nbytes": 8896}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 1]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"float64\", \"shape\": [-1, 1]}}]"}}'
+source: '{"tags": {"mlflow.user": "matteo", "mlflow.source.name": "/home/matteo/anaconda3/envs/BDM23_MFlow/lib/python3.11/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

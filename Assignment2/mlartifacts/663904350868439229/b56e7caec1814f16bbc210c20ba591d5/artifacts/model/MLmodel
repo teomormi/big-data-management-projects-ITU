@@ -1,0 +1,24 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.0
+mlflow_version: 2.8.1
+model_size_bytes: 7234113
+model_uuid: bbb66f2233d74241a7a0b6eecffa13b5
+run_id: b56e7caec1814f16bbc210c20ba591d5
+signature:
+  inputs: '[{"type": "double", "name": "Speed"}, {"type": "double", "name": "Direction"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2023-11-27 12:28:14.370925'

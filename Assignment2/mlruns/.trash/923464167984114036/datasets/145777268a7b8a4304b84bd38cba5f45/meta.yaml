@@ -1,0 +1,8 @@
+digest: c4c3d63d
+name: dataset
+profile: '{"num_rows": 1111, "num_elements": 2222}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "Speed"}, {"type": "double",
+  "name": "Direction"}]}'
+source: '{"tags": {"mlflow.user": "matteo", "mlflow.source.name": "/home/matteo/anaconda3/envs/BDM23_MFlow/lib/python3.11/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

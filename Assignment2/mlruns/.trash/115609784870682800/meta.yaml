@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/115609784870682800
+creation_time: 1700673659026
+experiment_id: '115609784870682800'
+last_update_time: 1700749240712
+lifecycle_stage: deleted
+name: PolyRegressionDirection
+tags: {}

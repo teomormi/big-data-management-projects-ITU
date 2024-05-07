@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/566005267593053386/159e107fe1e14c24a0d4ce2b6e9dfb95/artifacts
+deleted_time: 1700647119262
+end_time: 1700583093530
+entry_point_name: ''
+experiment_id: '566005267593053386'
+lifecycle_stage: deleted
+run_id: 159e107fe1e14c24a0d4ce2b6e9dfb95
+run_name: mean_2degree
+run_uuid: 159e107fe1e14c24a0d4ce2b6e9dfb95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700583089962
+status: 3
+tags: []
+user_id: matteo
